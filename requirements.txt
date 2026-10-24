@@ -1,0 +1,4 @@
+pandas>=2.3.3
+numpy>=2.3.5
+jupyter>=7.4.5
+sklearn>=1.7.2
